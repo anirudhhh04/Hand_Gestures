@@ -1,5 +1,5 @@
 ## PROJECT :
-This project involves developing a machine learning model to recognize and classify hand gestures using images.
+This project focuses on creating a machine learning model for hand gesture recognition and classification from images. The code mounts Google Drive to access a dataset of hand gesture images, retrieves and lists the images, and loads a pre-trained TensorFlow model to perform gesture classification. It also displays the model’s architecture to provide insights into its design.
 ## Tools used:
 - Python
 - OpenCv
